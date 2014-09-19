@@ -1,0 +1,20 @@
+{
+  "family": "arale",
+  "name": "repeatable",
+  "version": "1.0.0",
+  "description": "The best jQuery plugin ever.",
+  "homepage": "https://github.com/hotoo/repeatable",
+  "author": "闲耘 <hotoo.cn@gmail.com>",
+  "repository": "git://github.com/hotoo/repeatable.git",
+  "bugs": "https://github.com/hotoo/repeatable/issues",
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["repeatable.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {
+      "seajs": "seajs/seajs/2.0.0/sea.js"
+    }
+  }
+}
